@@ -1,6 +1,6 @@
-Metadata-Version: 0.0.1
+Metadata-Version: 0.0.2
 Name: Jianfan
-Version: 0.0.1
+Version: 0.0.2
 Summary: A Python Library for translation between traditional and simplified chinese.
 Home-page: http://code.google.com/p/python-jianfan/
 Author: Leon Dong
